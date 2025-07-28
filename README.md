@@ -1,3 +1,3 @@
 # First Hub Project
 
-Hi, I am Puleng Letsie. Who i am is a journy still being discovered, but every discovery already made is blissfull. here is a taste, i am passionate about everything tech,but at the top of my list its robotics and AI, app development and hacking. i Strive to grow both interlectually and spritually. Being the change i want to see in this world is what fuels me, and i know trough tech, I will!
+Hi, **I am Puleng Letsie**. Who i am is a journy still being discovered, but every discovery already made is blissfull. here is a taste, ``I am passionate about everything tech,but at the top of my list its robotics and AI, app development and hacking``. i Strive to grow both interlectually and spritually. *Being the change i want to see in this world is what fuels me*, and i know trough tech, I will!S
